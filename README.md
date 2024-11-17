@@ -2,7 +2,7 @@
 - 👀 I’m interested in
   > Linux dev: Passionate about exploring and mastering Linux systems.
   > Machine Learning & Statistics: Currently learning these fields to enhance technical expertise.
-  > Mechatronics Enthusiast: Interested in the interdisciplinary field of mechatronics.
+  > Mechatronics : Interested in the interdisciplinary field of mechatronics.
   > Creative Painting: Talented in painting, with a strong artistic flair.
   > SPACETECH and FINTECH.
   > Communication: Skilled in articulating ideas effectively and building meaningful connections.
