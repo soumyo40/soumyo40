@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soumyo40, a dynamic individual with a curiosity driven mindset.
+- 👋 Hi, I’m @soumyo40, a dynamic individual with a curiosity-driven mindset.
 - 👀 I’m interested in
   > Linux dev: Passionate about exploring and mastering Linux systems.
   > Machine Learning & Statistics: Currently learning these fields to enhance technical expertise.
